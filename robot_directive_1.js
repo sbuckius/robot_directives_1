@@ -1,5 +1,5 @@
 let totalImages = 30; // 6 questions * 5 images each
-let imagePrefix = "brush";
+let imagePrefix = "images/brush";
 let imageExtension = ".jpg";
 
 let images = [];
